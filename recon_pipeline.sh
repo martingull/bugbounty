@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Target domain
 DOMAIN=$1
 
