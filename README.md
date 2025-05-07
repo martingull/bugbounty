@@ -1,2 +1,2 @@
 # bugbounty
-Script to generate some income in bug bounty. 
+Script to possibly generate some income in bug bounty. 
